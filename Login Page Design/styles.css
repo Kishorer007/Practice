@@ -116,15 +116,6 @@ body {
     input{
         size: 10px;
     }
-a{
-    position: absolute;
-    bottom: 249px;
-    right: 227px;
-    text-align: right;
-    font-size: x-small;
-    color:  #7f265b;
-    
-}
 }
 .login-button {
     background: #7F265B;
